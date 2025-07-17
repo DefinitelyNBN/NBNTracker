@@ -1,7 +1,13 @@
 #!/usr/bin/env python3
 """
-NBNTracker Backend API Test Suite
-Tests all backend endpoints with realistic data
+NBNTracker Backend API Test Suite - Enhanced Features Testing
+Tests all backend endpoints with focus on new enhanced features:
+- Enhanced Expense Management with recurring expenses
+- Advanced Budget Management with different budget types  
+- Enhanced Dashboard Analytics with savings and spending trends
+- Search and Filter Functionality
+- Export and Categories endpoints
+- Enhanced Smart Suggestions
 """
 
 import requests
